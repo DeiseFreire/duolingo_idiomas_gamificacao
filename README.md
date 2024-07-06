@@ -28,6 +28,12 @@ align="center">
 
 ![Duo5](https://imgur.com/TizGT3y.png) O período de revisão abrange o lançamento público do aplicativo em 2012 até o início de 2020.
 
+## Outras informações:
+
+![Duo5](https://imgur.com/TizGT3y.png) O artigo avalia o design do Duolingo e sua eficácia no alcance dos objetivos de aprendizagem de idiomas.
+
+![Duo5](https://imgur.com/TizGT3y.png) A revisão destaca o design do aplicativo e sugere uma lacuna nos resultados de aprendizagem do uso do Duolingo.
+
 <img src="https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/cf245ca9-30ce-4857-8241-a2898a282302" 
 alt="reuniao" 
 min-width="100px" 
