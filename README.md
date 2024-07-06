@@ -18,7 +18,15 @@ align="center">
 >SHORTT, Mitchell et al. Gamification in mobile-assisted language learning: A systematic review of Duolingo literature from public release of 2012 to early 2020.
 > Computer Assisted Language Learning, v. 36, n. 3, p. 517-554, 2023
 
+![Duo5](https://imgur.com/TizGT3y.png) Título: Gamificação na aprendizagem de idiomas assistida por dispositivos móveis: uma revisão sistemática da literatura do Duolingo desde o lançamento público de 2012 até o início de 2020
 
+![Duo5](https://imgur.com/TizGT3y.png) Autores: Mitchell Shortt, Shantanu Tilak, Irina Kuznetcova, Bethany Martens, Babatunde Akinkuolie
+
+![Duo5](https://imgur.com/TizGT3y.png) Publicação: Computer Assisted Language Learning, v. 36, n. 3, p. 517-554, 2023
+
+![Duo5](https://imgur.com/TizGT3y.png) Este artigo apresenta uma revisão sistemática de pesquisas sobre o Duolingo, um popular aplicativo móvel de aprendizagem de idiomas, com foco em elementos de gamificação e seu impacto nos resultados de aprendizagem. 
+
+![Duo5](https://imgur.com/TizGT3y.png) O período de revisão abrange o lançamento público do aplicativo em 2012 até o início de 2020.
 
 <img src="https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/cf245ca9-30ce-4857-8241-a2898a282302" 
 alt="reuniao" 
