@@ -36,7 +36,7 @@ align="center">
 
 ## Tags
 
-Systematic review; Duolingo; CALL; MALL; language learning; design
+#SystematicReview #Duolingo #CALL #MALL #LanguageLearning #Design
 
 <img src="https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/cf245ca9-30ce-4857-8241-a2898a282302" 
 alt="reuniao" 
