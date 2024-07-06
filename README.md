@@ -34,6 +34,10 @@ align="center">
 
 ![Duo5](https://imgur.com/TizGT3y.png) A revisão destaca o design do aplicativo e sugere uma lacuna nos resultados de aprendizagem do uso do Duolingo.
 
+## Tags
+
+Systematic review; Duolingo; CALL; MALL; language learning; design
+
 <img src="https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/cf245ca9-30ce-4857-8241-a2898a282302" 
 alt="reuniao" 
 min-width="100px" 
