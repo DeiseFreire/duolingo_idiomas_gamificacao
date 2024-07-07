@@ -29,7 +29,7 @@ Foram analisados artigos voltados às questões de design, aplicação e pedagog
 
 ✅  gamificação 
 
-✅  eficácia do Duolingo. 
+✅  Entender a eficácia do Duolingo. 
 
 ## Os educadores:  
 
