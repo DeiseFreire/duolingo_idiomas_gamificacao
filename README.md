@@ -18,21 +18,21 @@ align="center">
 >SHORTT, Mitchell et al. Gamification in mobile-assisted language learning: A systematic review of Duolingo literature from public release of 2012 to early 2020.
 > Computer Assisted Language Learning, v. 36, n. 3, p. 517-554, 2023
 
-![Duo5](https://imgur.com/TizGT3y.png) Título: Gamificação na aprendizagem de idiomas assistida por dispositivos móveis: uma revisão sistemática da literatura do Duolingo desde o lançamento público de 2012 até o início de 2020
+![image](https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/85bbaf84-9c5e-403a-af07-48f7c729fc4a) Título: Gamificação na aprendizagem de idiomas assistida por dispositivos móveis: uma revisão sistemática da literatura do Duolingo desde o lançamento público de 2012 até o início de 2020
 
-![Duo5](https://imgur.com/TizGT3y.png) Autores: Mitchell Shortt, Shantanu Tilak, Irina Kuznetcova, Bethany Martens, Babatunde Akinkuolie
+![image](https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/85bbaf84-9c5e-403a-af07-48f7c729fc4a) Autores: Mitchell Shortt, Shantanu Tilak, Irina Kuznetcova, Bethany Martens, Babatunde Akinkuolie
 
-![Duo5](https://imgur.com/TizGT3y.png) Publicação: Computer Assisted Language Learning, v. 36, n. 3, p. 517-554, 2023
+![image](https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/85bbaf84-9c5e-403a-af07-48f7c729fc4a) Publicação: Computer Assisted Language Learning, v. 36, n. 3, p. 517-554, 2023
 
-![Duo5](https://imgur.com/TizGT3y.png) Este artigo apresenta uma revisão sistemática de pesquisas sobre o Duolingo, um popular aplicativo móvel de aprendizagem de idiomas, com foco em elementos de gamificação e seu impacto nos resultados de aprendizagem. 
+![image](https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/85bbaf84-9c5e-403a-af07-48f7c729fc4a) Este artigo apresenta uma revisão sistemática de pesquisas sobre o Duolingo, um popular aplicativo móvel de aprendizagem de idiomas, com foco em elementos de gamificação e seu impacto nos resultados de aprendizagem. 
 
-![Duo5](https://imgur.com/TizGT3y.png) O período de revisão abrange o lançamento público do aplicativo em 2012 até o início de 2020.
+![image](https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/85bbaf84-9c5e-403a-af07-48f7c729fc4a) O período de revisão abrange o lançamento público do aplicativo em 2012 até o início de 2020.
 
 ## Outras informações:
 
-![Duo5](https://imgur.com/TizGT3y.png) O artigo avalia o design do Duolingo e sua eficácia no alcance dos objetivos de aprendizagem de idiomas.
+![image](https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/85bbaf84-9c5e-403a-af07-48f7c729fc4a) O artigo avalia o design do Duolingo e sua eficácia no alcance dos objetivos de aprendizagem de idiomas.
 
-![Duo5](https://imgur.com/TizGT3y.png) A revisão destaca o design do aplicativo e sugere uma lacuna nos resultados de aprendizagem do uso do Duolingo.
+![image](https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/85bbaf84-9c5e-403a-af07-48f7c729fc4a) A revisão destaca o design do aplicativo e sugere uma lacuna nos resultados de aprendizagem do uso do Duolingo.
 
 ## Tags
 
