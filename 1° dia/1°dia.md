@@ -45,3 +45,13 @@ Foram analisados artigos voltados às questões de design, aplicação e pedagog
 
 ![image](https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/febda716-ccb0-42d2-bce4-5fd6df9db0f8)
   Em como implementar o MALL para a aprendizagem.
+
+  
+<p align="center">
+  <img style="height: 60px;" src="https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/97dcff48-3417-496a-b2b0-5cdd0541874b" alt="hello-algo-typing-svg" />
+  </br>
+  Muito lindinho
+</p>
+
+
+
