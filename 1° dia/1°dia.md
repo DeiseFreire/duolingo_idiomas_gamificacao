@@ -1,4 +1,4 @@
-# 1° Dia ![image](https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/9f146d64-5cf7-4457-ae9e-8cb93b4abbe0)
+# 1° Dia ![](https://i.imgur.com/4A1494N.png)
 
 
 O Duolingo é o aplicativo (app) de aprendizagem de línguas assistida por dispositivos móveis (MALL).
