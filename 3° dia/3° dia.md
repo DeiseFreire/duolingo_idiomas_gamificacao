@@ -1,4 +1,4 @@
-# 3 Dia
+ # 3 Dia ![](https://i.imgur.com/4A1494N.png)
 
 * A aprendizagem de línguas pode ser desafiadora, estressante e indutora de ansiedade (Akbari, 2015; Iaremenko, 2017; Rafek, Ramli, Iksan, Harith, & Abas, 2014).
   
