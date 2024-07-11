@@ -17,3 +17,5 @@ Venkata, Telaprolu, Rallapalli e Nah (2013) identificaram cinco componentes de g
 (4) competição para motivar o desempenho; 
 
 (5) orientação divertida para reduzir o estresse e aumentar o engajamento.
+
+Segundo Buchanball (2010), Dehganzadeh & Dehganzadeh (2020), Garland (2015), Shadiev et al. (2020), e outros, a gamificação no MALL ainda é um tema recente. No entanto, o interesse nos usos e consequências da aquisição de linguagem gamificada está expandindo rapidamente.
