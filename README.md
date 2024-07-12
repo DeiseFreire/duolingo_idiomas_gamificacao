@@ -47,6 +47,6 @@ align="center">
 
 ## ORCID
 
-Deise Freire [![image](https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/1f5aa878-c5ac-4f60-8478-d31ec52fe38b)](https://orcid.org/my-orcid?orcid=0009-0001-2174-6317)
+`Deise Freire` [![image](https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/1f5aa878-c5ac-4f60-8478-d31ec52fe38b)](https://orcid.org/my-orcid?orcid=0009-0001-2174-6317) `https://orcid.org/0009-0001-2174-6317`
 
 		
