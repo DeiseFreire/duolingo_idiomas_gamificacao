@@ -9,3 +9,5 @@ Esses elementos incluíam (mas não estavam limitados a) desafios, compartilhame
 Lingotes: Moeda virtual da plataforma que podem ser trocados por recompensas dentro do jogo
 
 Freemium: Quando um produto ou serviço com recursos básicos é oferecido gratuitamente ao público em geral, ele é chamado de freemium. No entanto, ele fornece mais recursos e recursos que o usuário pode acessar mediante o pagamento de uma taxa.
+
+Observaram que o Duolingo foi um dos aplicativos mais gamificados entre os 20 aplicativos MALL analisados, reforçando ainda mais a ideia de que esta plataforma é representativa da implementação da gamificação neste meio de aprendizagem.
