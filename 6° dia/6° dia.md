@@ -8,6 +8,6 @@ Os usuários têm um sistema de “coração” em que ao cometer um de erro res
 
 O usuário não pode continuar praticando até recuperar pelo menos alguns corações quando perder todos os cinco. 
 
-Os erros resultam em mais prática e exercícios, bem como em um nível marginalmente reduzido de conhecimento ou realização no final da sessão. Dar respostas precisas resulta em um bônus e um breve agradecimento no final da sessão. 
+Os erros resultam em mais prática e exercícios, bem como em um nível de conhecimento ou realização no final da sessão. Dar respostas precisas resulta em um bônus e um breve agradecimento no final da sessão. 
 
 Os usuários podem interagir com outros estudantes visitando um tópico do fórum.
