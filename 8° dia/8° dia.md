@@ -12,6 +12,7 @@ Um total de 443 resultados foram obtidos usando as frases booleanas "Duolingo" O
 
 Como termos de pesquisa mais gerais, como "gamificação" ou "gam*", poderiam levar a resultados menos precisos, lembrança muito limitada, maior risco de erros booleanos ou exclusão de um registro que deveria ter sido incluído, decidimos não usá-los (Salvador-Oliván, Marco-Cuenca e Arquero-Avilés, 2019).
 
+🚨 **IMPORTANTE** 🚨 
 
 **Revisão bibliográfica**
 
