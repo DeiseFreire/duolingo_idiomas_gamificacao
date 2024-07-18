@@ -6,6 +6,12 @@ Estas recomendações são aplicáveis ​​a uma variedade de campos e tópico
 
 Outras diretrizes, como o Consolidated Standards of Reporting Trials (CONSORT), exigem múltiplas extensões para serem implementadas com sucesso em estudos educacionais (Grant, Mayo-Wilson, Melendez-Torres, & Montgomery, 2013) ou são menos aplicáveis ​​à condução de revisões sistemáticas (Johansen & Thomsen, 2016). 
 
+As principais bases de dados, como EBSCOHost (todas selecionadas), Web of Science, Scopus, ProQuest, JSTOR e Electronic Journal Center, foram pesquisadas em busca de artigos. 
+
+Um total de 443 resultados foram obtidos usando as frases booleanas "Duolingo" OR "Duo-Lingo" OR "DuoLingo" AND "language learning" OR "second language acquisition" OR "second language instruction" OR "ESL" OR "foreign language education" OR "CALL" OR "mobile-assisted language learning". 
+
+Como termos de pesquisa mais gerais, como "gamificação" ou "gam*", poderiam levar a resultados menos precisos, lembrança muito limitada, maior risco de erros booleanos ou exclusão de um registro que deveria ter sido incluído, decidimos não usá-los (Salvador-Oliván, Marco-Cuenca e Arquero-Avilés, 2019).
+
 
 **Revisão bibliográfica**
 
