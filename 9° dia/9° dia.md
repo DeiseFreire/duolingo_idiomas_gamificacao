@@ -44,7 +44,6 @@ Os critérios de exclusão utilizados para selecionar artigos em um estudo sobre
 
 **4. Idiomas:** Estudos publicados em idiomas que a equipe do estudo não domina foram excluídos, pois a análise completa do texto não seria possível.
 
-## Resumo do Texto:
 
 O texto argumenta que a gamificação é um elemento fundamental do Duolingo e não pode ser separada da plataforma. Essa afirmação se baseia em critérios de análise que consideram a gamificação e o MALL como conceitos interligados e integrados no Duolingo (Govender & Arnedo-Moreno, 2020).
 
@@ -63,6 +62,25 @@ O texto argumenta que a gamificação é um elemento fundamental do Duolingo e n
     * **Foco inadequado:** Alguns artigos não se concentravam no Duolingo (por exemplo, Fennell, Zuo e Lerman, 2019).
     * **Metodologia inadequada:** Outros artigos não utilizaram metodologias adequadas para avaliar o Duolingo (por exemplo, Chik, 2020).
 * **Fluxograma PRISMA:** Ilustra o processo de revisão sistemática.
+
+
+O texto descreve a análise qualitativa de 35 artigos sobre o Duolingo. Os pontos principais são:
+
+**Análise de conteúdo:**
+
+* **Códigos dedutivos:** A equipe de pesquisa criou 9 códigos pré-definidos para analisar os artigos:
+    * Referencial teórico
+    * Desenho do estudo
+    * Método de amostragem
+    * Características da amostra
+    * Questões de pesquisa
+    * Coleta de dados
+    * Análise
+    * Local de pesquisa (país)
+    * Idioma(s) ensinado(s)
+      
+* **Subcategorias:** Cada código principal foi subdividido em subcategorias mais detalhadas (Saldaña, 2016).
+* **Multicodificação:** Os artigos foram categorizados em mais de um código para garantir a riqueza da análise.
 
 
 
