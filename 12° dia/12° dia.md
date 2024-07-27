@@ -18,4 +18,22 @@
 
 **Em resumo:**
 
-A codificação dos desenhos dos estudos permitiu uma organização sistemática e detalhada dos dados, facilitando a análise e a comparação entre diferentes estudos. Essa abordagem, baseada em critérios estabelecidos na literatura, contribui para a rigorosidade e a confiabilidade da pesquisa.
+A codificação dos desenhos dos estudos permitiu uma organização sistemática e detalhada dos dados, facilitando a análise e a comparação entre diferentes estudos. Essa abordagem, baseada em critérios estabelecidos na literatura, contribuiu para a rigorosidade e a confiabilidade da pesquisa.
+
+**Tipos de questões de pesquisa:**
+
+* Desempenho (resultados de aprendizagem, como aquisição de vocabulário)
+* Atitudes e motivação (por exemplo, experiência do usuário e do professor)
+* Design (por exemplo, revisão de recursos específicos do design do Duolingo)
+
+**Características da amostra:**
+
+* Demográficos (condição do aluno, especialização, idade, sexo, país de origem, status socioeconômico, destro/canhoto)
+* Antecedentes (conhecimento e desempenho prévios, experiência em jogos)
+
+**Subcódigo "nenhum"**
+
+Cada categoria (tipos de questões de pesquisa e características da amostra) possuía um subcódigo "nenhum". Esse subcódigo servia para indicar estudos nos quais a informação correspondente não foi declarada e não foi possível inferir.
+
+Esse método de codificação permite uma organização padronizada das informações, facilitando a análise e comparação entre diferentes estudos.
+
