@@ -37,3 +37,5 @@ Cada categoria (tipos de questões de pesquisa e características da amostra) po
 
 Esse método de codificação permite uma organização padronizada das informações, facilitando a análise e comparação entre diferentes estudos.
 
+
+Para garantir a confiabilidade do esquema de codificação, os pesquisadores aplicaram-no a uma amostra aleatória dos dados (14 artigos, 40%). A concordância entre os dois codificadores foi alta (Kappa = 0,86). Após essa verificação de confiabilidade, estatísticas descritivas foram calculadas para analisar os tipos de literatura publicados sobre o aplicativo de aprendizagem de idiomas Duolingo, o foco principal do estudo.
