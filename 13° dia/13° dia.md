@@ -21,9 +21,8 @@
 > [!NOTE]
 **Em resumo, o texto prevê que o interesse em entender como plataformas como o Duolingo utilizam a gamificação para promover o aprendizado de idiomas continuará a crescer, impulsionado pela crescente importância do ensino online.**
 
-## Resumo do Texto
 
-**Diversidade Geográfica e Temática nos Estudos sobre Gamificação**
+### **Diversidade Geográfica e Temática nos Estudos sobre Gamificação**
 
 O texto apresenta uma análise da distribuição geográfica de estudos sobre gamificação em diversos locais de pesquisa. Os resultados mostram uma concentração significativa de pesquisas nos **Estados Unidos**, seguida por um empate entre **Brasil, Indonésia e Japão**. 
 
