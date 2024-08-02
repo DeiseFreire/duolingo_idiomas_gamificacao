@@ -35,8 +35,6 @@ A análise também aponta para uma tendência crescente de pesquisas sobre gamif
 Os custos associados à implementação de elementos de gamificação em contextos educacionais são apontados como um possível fator que pode ter influenciado a distribuição geográfica dos estudos, contribuindo para a menor representação de algumas regiões.
 
 > [!NOTE]
->
-> **Em resumo:**
 > 
 > **Concentração geográfica:** Estados Unidos e Ásia lideram em número de estudos.
 > 
