@@ -21,3 +21,31 @@
 > [!NOTE]
 **Em resumo, o texto prevê que o interesse em entender como plataformas como o Duolingo utilizam a gamificação para promover o aprendizado de idiomas continuará a crescer, impulsionado pela crescente importância do ensino online.**
 
+## Resumo do Texto
+
+**Diversidade Geográfica e Temática nos Estudos sobre Gamificação**
+
+O texto apresenta uma análise da distribuição geográfica de estudos sobre gamificação em diversos locais de pesquisa. Os resultados mostram uma concentração significativa de pesquisas nos **Estados Unidos**, seguida por um empate entre **Brasil, Indonésia e Japão**. 
+
+Em relação aos continentes, **Ásia, América do Sul e América do Norte** lideram em número de estudos. No entanto, a pesquisa identificou uma lacuna na **África**, onde não foram encontrados estudos. 
+
+A análise também aponta para uma tendência crescente de pesquisas sobre gamificação na **Ásia**. Um estudo específico sobre a região indica que a pesquisa asiática está migrando de um foco no conteúdo para um foco no contexto ao incorporar elementos de gamificação. 
+
+**Fatores Limitantes**
+
+Os custos associados à implementação de elementos de gamificação em contextos educacionais são apontados como um possível fator que pode ter influenciado a distribuição geográfica dos estudos, contribuindo para a menor representação de algumas regiões.
+
+> [!NOTE]
+>
+> **Em resumo:**
+> 
+> **Concentração geográfica:** Estados Unidos e Ásia lideram em número de estudos.
+> 
+> **Lacuna geográfica:** Ausência de estudos na África.
+> 
+> **Tendências:** Foco crescente no contexto na pesquisa asiática.
+> 
+> **Fatores limitantes:** Custos de implementação. 
+
+
+
