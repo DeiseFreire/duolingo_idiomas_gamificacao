@@ -2,8 +2,6 @@
 
 ## Estudo dirigo por questões
 
-**Com base no texto, algumas perguntas e respostas que podem me ajudar a entender melhor o tema da pesquisa:**
-
 ### Sobre a Distribuição Geográfica dos Estudos
 * **Em quais continentes a maioria dos estudos sobre gamificação e aprendizado de idiomas foi realizada?**
     * A maioria dos estudos foi realizada na Ásia, América do Sul e América do Norte, com um destaque para os Estados Unidos.
