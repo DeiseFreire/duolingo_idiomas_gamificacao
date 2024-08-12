@@ -56,8 +56,6 @@
 * **O que se sabe sobre os casos em que o idioma de destino não foi declarado?**
   * Os seis casos em que o idioma de destino não foi declarado estão todos relacionados ao design, seja no tema da pesquisa ou nas perguntas de pesquisa.
 
-### Análise
-
 * **Quais outros fatores podem influenciar a escolha do idioma de destino em estudos?**
   * A escolha do idioma pode ser influenciada por fatores como a disponibilidade de recursos, o interesse do pesquisador, o público-alvo do estudo, entre outros.
  
