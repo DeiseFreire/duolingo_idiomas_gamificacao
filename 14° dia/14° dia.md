@@ -61,10 +61,12 @@
  
 > [!NOTE]
 > O idioma de destino refere-se à língua que um indivíduo está aprendendo ou que é o foco de um estudo.
+>
 > É o idioma para o qual se direciona o processo de aquisição ou a análise linguística.
 >
 > Por exemplo:
 >
 > Aluno de espanhol: O espanhol é o idioma de destino para esse aluno.
+>
 > Pesquisa sobre o ensino de francês: O francês é o idioma de destino da pesquisa.
 
