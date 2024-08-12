@@ -28,3 +28,47 @@
 * **Quais os desafios para a incorporação de elementos de gamificação em contextos educacionais?**
     * O texto sugere que os custos podem ser um fator limitante para a incorporação de elementos de gamificação, o que pode explicar a menor representação global de alguns estudos.
 
+
+
+### Sobre a Frequência dos Idiomas
+
+* **Qual é o idioma mais comum ensinado nos estudos analisados?**
+  * O inglês é o idioma mais comum ensinado nos estudos, de acordo com os registros.
+* **Quais idiomas estão empatados em segundo lugar em termos de frequência?**
+  * Italiano, francês, espanhol e alemão estão empatados em segundo lugar.
+* **Quais idiomas possuem a menor frequência de estudos?**
+  * Turco, mandarim e japonês são os idiomas com menor frequência de estudos, com apenas um caso cada.
+
+### Perguntas sobre a Prevalência do Inglês
+
+* **Por que o inglês é o idioma mais prevalente nos estudos?**
+  * A prevalência do inglês se deve ao fato de ser um dos idiomas globais mais difundidos e à importância que muitos países dão ao inglês como língua estrangeira.
+* **A tendência de ensinar inglês como língua estrangeira está aumentando ou diminuindo?**
+  * A tendência de ensinar inglês como língua estrangeira não parece estar diminuindo, segundo o texto.
+
+### Perguntas sobre a Importância do Idioma de Destino em Estudos de Design
+
+* **Por que o idioma de destino é relevante em estudos de design?**
+  * O idioma de destino é valioso em estudos de design porque algumas variáveis de design podem variar dependendo do idioma.
+* **Qual exemplo é dado no texto para ilustrar a importância do idioma de destino em design?**
+  * O exemplo citado é a existência do recurso de história interativa em alguns idiomas do Duolingo e sua ausência em outros.
+
+### Sobre os Casos Não Declarados
+
+* **O que se sabe sobre os casos em que o idioma de destino não foi declarado?**
+  * Os seis casos em que o idioma de destino não foi declarado estão todos relacionados ao design, seja no tema da pesquisa ou nas perguntas de pesquisa.
+
+### Análise
+
+* **Quais outros fatores podem influenciar a escolha do idioma de destino em estudos?**
+  * A escolha do idioma pode ser influenciada por fatores como a disponibilidade de recursos, o interesse do pesquisador, o público-alvo do estudo, entre outros.
+ 
+> [!NOTE]
+> O idioma de destino refere-se à língua que um indivíduo está aprendendo ou que é o foco de um estudo.
+> É o idioma para o qual se direciona o processo de aquisição ou a análise linguística.
+>
+> Por exemplo:
+>
+> Aluno de espanhol: O espanhol é o idioma de destino para esse aluno.
+> Pesquisa sobre o ensino de francês: O francês é o idioma de destino da pesquisa.
+
