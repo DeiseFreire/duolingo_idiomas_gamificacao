@@ -31,10 +31,6 @@
     * Faltam atividades centradas em habilidades pragmáticas e culturais.
 ## Perguntas e Respostas sobre a Pesquisa sobre o Duolingo
 
-**Com base no texto fornecido, podemos elaborar as seguintes perguntas e respostas:**
-
-### Sobre o Foco da Pesquisa
-
 * **Qual o principal enfoque dos estudos sobre o Duolingo?**
     * A maioria dos estudos se concentra em analisar as estruturas de design do aplicativo, como seus recursos e interfaces, em vez de explorar como essas características influenciam o processo de aprendizagem de idiomas.
 
