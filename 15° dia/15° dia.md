@@ -29,7 +29,6 @@
     * As abordagens behavioristas são criticadas por encorajar resultados repetitivos e não contextualizados, que podem não ser aplicáveis a situações reais.
 * **O que falta nas atividades do Duolingo, de acordo com Teske (2017)?**
     * Faltam atividades centradas em habilidades pragmáticas e culturais.
-## Perguntas e Respostas sobre a Pesquisa sobre o Duolingo
 
 * **Qual o principal enfoque dos estudos sobre o Duolingo?**
     * A maioria dos estudos se concentra em analisar as estruturas de design do aplicativo, como seus recursos e interfaces, em vez de explorar como essas características influenciam o processo de aprendizagem de idiomas.
