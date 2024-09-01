@@ -19,4 +19,4 @@ Ainda não são suficientemente exploradas na pesquisa atual.
 
 O autor defende que, para avançar no campo do aprendizado de línguas mediado por tecnologia (MALL), é fundamental que os pesquisadores comecem a se aprofundar nessas questões mais complexas. Isso envolve ir além da análise do design e investigar os processos cognitivos e pedagógicos subjacentes ao uso do Duolingo.
 
-**Em resumo**, a necessidade de estudos que se concentrem não apenas no design do aplicativo, mas também em como ele influencia o aprendizado de forma mais profunda e significativa.
+**Em resumo**, há necessidade de estudos que se concentrem não apenas no design do aplicativo, mas também em como ele influencia o aprendizado de forma mais profunda e significativa.
