@@ -1,0 +1,14 @@
+**O Duolingo, um aplicativo popular para o aprendizado de idiomas, apresenta resultados mistos em pesquisas sobre sua eficácia.**
+
+**Pontos Positivos:**
+
+* **Melhora em diversas habilidades:** Vários estudos indicam que o uso do Duolingo pode levar a melhorias em vocabulário, compreensão auditiva, habilidades de comunicação e até mesmo em testes holísticos de língua.
+* **Benefícios para grupos específicos:** O aplicativo demonstrou ser útil para crianças com síndrome de Down, auxiliando no desenvolvimento de habilidades de escrita.
+
+**Pontos Negativos e Limitações:**
+
+* **Falta de consistência:** Nem todos os estudos encontraram resultados significativos, e alguns até mostraram que o Duolingo não superou outros métodos de ensino.
+* **Metodologias questionáveis:** A maioria dos estudos possui limitações metodológicas, como:
+    * **Tamanhos de amostra pequenos:** Dificulta a generalização dos resultados.
+    * **Falta de controle de variáveis:** Não considera fatores como motivação, histórico de aprendizado e outros recursos utilizados pelos participantes, o que pode influenciar os resultados.
+    * **Instrumentação e metodologia pouco rigorosas:** Em muitos casos, os métodos de avaliação e coleta de dados não são suficientemente robustos.
