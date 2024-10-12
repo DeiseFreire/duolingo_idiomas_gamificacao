@@ -3,7 +3,6 @@
 **Pontos Positivos:**
 
 * **Melhora em diversas habilidades:** Vários estudos indicam que o uso do Duolingo pode levar a melhorias em vocabulário, compreensão auditiva, habilidades de comunicação e até mesmo em testes holísticos de língua.
-* **Benefícios para grupos específicos:** O aplicativo demonstrou ser útil para crianças com síndrome de Down, auxiliando no desenvolvimento de habilidades de escrita.
 
 **Pontos Negativos e Limitações:**
 
