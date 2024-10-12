@@ -13,12 +13,5 @@ A pesquisa atual sobre o Duolingo se concentra principalmente em métodos quanti
 * **Utilizar amostras mais representativas:** Para garantir que os resultados dos estudos sejam generalizáveis para a população de usuários.
 * **Realizar análises mais profundas:** Para identificar os fatores que influenciam o sucesso no aprendizado de idiomas através do Duolingo.
 
-**Em resumo,** o texto alerta para a necessidade de uma pesquisa mais rigorosa e abrangente sobre o Duolingo, a fim de entender melhor como o aplicativo funciona e quais são seus impactos no aprendizado de idiomas.
 
-**Pontos-chave:**
 
-* **Críticas à pesquisa atual:** Falta de profundidade, generalizações, amostras pequenas.
-* **Necessidade de uma abordagem mais completa:** Combinar métodos quantitativos e qualitativos, utilizar amostras maiores e mais representativas, realizar análises mais profundas.
-* **Objetivo:** Entender melhor como o Duolingo funciona e seus impactos no aprendizado de idiomas.
-
-**Conclusão:** A pesquisa sobre o Duolingo precisa evoluir para fornecer evidências mais sólidas e confiáveis sobre a eficácia do aplicativo.
