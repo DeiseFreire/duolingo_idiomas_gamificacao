@@ -1,5 +1,5 @@
 <a href="https://tenor.com/pt-BR/view/duolingo-gif-9643132719933890649?utm_source=share-button&utm_medium=Social&utm_content=pinterest" target="blank"><img align="center" src="https://github.com/user-attachments/assets/a42f0166-513d-497c-b965-b251bd1e7e6e" alt="" height="100" /></a> 
-***
+****
 
 **O Duolingo, um aplicativo popular para o aprendizado de idiomas, apresenta resultados mistos em pesquisas sobre sua eficácia.**
 
