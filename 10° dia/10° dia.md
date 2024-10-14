@@ -1,7 +1,7 @@
-## 10 Dia
+## 10 Dia   
 
-<a href="https://br.pinterest.com/pin/593349319686946770/" target="blank"><img align="right" src="https://i.pinimg.com/originals/98/59/12/98591272861e66a02eecf5dae0450c73.gif" alt="" 
-height="" /></a> 
+<a href="https://br.pinterest.com/pin/593349319686946770/" target="blank"><img align="right" src="https://i.pinimg.com/originals/98/59/12/98591272861e66a02eecf5dae0450c73.gif" alt="80" 
+height="90" /></a> 
 
 **Análise de Múltiplas Perguntas de Pesquisa:**
 
