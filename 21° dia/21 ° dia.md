@@ -37,8 +37,19 @@
 * **Adotar uma perspectiva sociocultural:** Considerar a aprendizagem de línguas como um processo social e cultural, e explorar como o Duolingo pode ser utilizado para promover a interação e a comunicação entre os aprendizes.
 * **Experimentar novas abordagens:** Tentar utilizar o Duolingo de forma diferente, integrando-o a atividades contextuais e explorando seu potencial para promover a aprendizagem colaborativa e autônoma.
 
-**Conclusão**
+## Diretrizes para Pesquisas sobre o Duolingo
 
-Em resumo, o texto argumenta que a pesquisa sobre o Duolingo ainda está em seus primeiros passos e que há muito a ser feito para compreender o impacto dessa plataforma na aprendizagem de línguas. Ao superar as limitações metodológicas e adotar uma perspectiva mais crítica e abrangente, os pesquisadores podem contribuir significativamente para o desenvolvimento de ferramentas e práticas pedagógicas mais eficazes para o ensino de línguas online.
+**Principais pontos das diretrizes:**
+
+* **Estrutura Teórica:** É fundamental definir claramente a teoria que fundamenta a pesquisa, explicando sua adequação ao contexto do estudo.
+* **Amostra:** Recomenda-se o uso de amostragem aleatória e de grandes tamanhos amostrais. Caso isso não seja possível, é crucial descrever detalhadamente as características da amostra.
+* **Variáveis:** Sugere-se controlar diversas variáveis, como informações demográficas, experiência com idiomas e tecnologias, e motivação.
+* **Metodologia:** A utilização de métodos mistos (quantitativos e qualitativos) é incentivada para capturar diferentes aspectos do processo de aprendizagem. É importante considerar o efeito da duração da intervenção e incluir perguntas abertas e observações.
+* **Análise de Dados:** Recomenda-se o uso de estatísticas inferenciais e o controle de variáveis de confusão. Ao utilizar estatísticas descritivas, é necessário limitar as generalizações.
+* **Perguntas de Pesquisa:** O texto apresenta diversas perguntas de pesquisa que podem direcionar futuros estudos, divididas em três categorias: eficiência/desempenho do Duolingo, motivação e atitudes dos alunos, e design do Duolingo e recursos gamificados.
+
+
+**O objetivo final é contribuir para uma melhor compreensão de como o Duolingo e outras ferramentas similares podem ser utilizadas de forma eficaz no ensino de línguas.**
+
 
 **Palavras-chave:** Duolingo, aprendizagem de línguas, pesquisa educacional, metodologia, gamificação, sociocultural.
