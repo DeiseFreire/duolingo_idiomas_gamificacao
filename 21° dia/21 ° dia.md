@@ -29,7 +29,6 @@
 * **Metodologia:** A amostragem é frequentemente pequena e não probabilística, o que limita a generalização dos resultados. Além disso, muitos estudos não descrevem adequadamente as características da amostra e o contexto da pesquisa.
 * **Visão limitada:** A pesquisa existente trata o Duolingo como uma ferramenta de aprendizagem behaviorista, ignorando sua potencialidade para promover a aprendizagem de línguas de forma mais social e culturalmente significativa.
 
-
 **Para futuras pesquisas sobre o Duolingo:**
 
 * **Aprofundar a investigação:** Ir além das perguntas básicas sobre a eficácia e explorar como os aprendizes utilizam a plataforma, quais são as suas experiências e como o design da plataforma influencia a aprendizagem.
@@ -37,7 +36,7 @@
 * **Adotar uma perspectiva sociocultural:** Considerar a aprendizagem de línguas como um processo social e cultural, e explorar como o Duolingo pode ser utilizado para promover a interação e a comunicação entre os aprendizes.
 * **Experimentar novas abordagens:** Tentar utilizar o Duolingo de forma diferente, integrando-o a atividades contextuais e explorando seu potencial para promover a aprendizagem colaborativa e autônoma.
 
-** Diretrizes para Pesquisas sobre o Duolingo**
+**Diretrizes para Pesquisas sobre o Duolingo**
 
 * **Estrutura Teórica:** É fundamental definir claramente a teoria que fundamenta a pesquisa, explicando sua adequação ao contexto do estudo.
 * **Amostra:** Recomenda-se o uso de amostragem aleatória e de grandes tamanhos amostrais. Caso isso não seja possível, é crucial descrever detalhadamente as características da amostra.
@@ -47,7 +46,20 @@
 * **Perguntas de Pesquisa:** O texto apresenta diversas perguntas de pesquisa que podem direcionar futuros estudos, divididas em três categorias: eficiência/desempenho do Duolingo, motivação e atitudes dos alunos, e design do Duolingo e recursos gamificados.
 
 
-**O objetivo final é contribuir para uma melhor compreensão de como o Duolingo e outras ferramentas similares podem ser utilizadas de forma eficaz no ensino de línguas.**
+**Limitações da pesquisa realizada:**
 
+* **Limitação linguística:** A pesquisa se concentrou em artigos em inglês e outros idiomas, mas é possível que existam publicações relevantes em outros idiomas que não foram consideradas.
+* **Foco no Duolingo:** A escolha do Duolingo como representante de aplicativos de aprendizagem de idiomas gamificados pode ser uma limitação, pois existem outras plataformas, como o Babbel, que também utilizam essa abordagem.
+* **Natureza dinâmica da tecnologia:** A rápida evolução do Duolingo e de outras ferramentas digitais pode tornar alguns dos resultados da pesquisa obsoletos em um futuro próximo.
+
+**Apesar dessas limitações, a pesquisa é considerada relevante e abrangente, oferecendo uma base sólida para futuras investigações sobre a aprendizagem de idiomas por meio de aplicativos.**
+
+**Em resumo, o texto destaca a importância de considerar a diversidade linguística nas pesquisas e a necessidade de acompanhar as constantes mudanças tecnológicas no campo da educação.**
+
+## Pontos-chave:
+
+* **Limitações:** Diversidade linguística, foco em uma plataforma específica e a natureza dinâmica da tecnologia.
+* **Relevância:** A pesquisa é considerada importante para o campo da aprendizagem de idiomas.
+* **Necessidade de futuras pesquisas:** A rápida evolução tecnológica exige um acompanhamento constante das pesquisas nessa área.
 
 **Palavras-chave:** Duolingo, aprendizagem de línguas, pesquisa educacional, metodologia, gamificação, sociocultural.
