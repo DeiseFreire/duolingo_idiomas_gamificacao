@@ -30,16 +30,14 @@
 * **Visão limitada:** A pesquisa existente trata o Duolingo como uma ferramenta de aprendizagem behaviorista, ignorando sua potencialidade para promover a aprendizagem de línguas de forma mais social e culturalmente significativa.
 
 
-**O texto sugere que futuras pesquisas sobre o Duolingo devem:**
+**Para futuras pesquisas sobre o Duolingo:**
 
 * **Aprofundar a investigação:** Ir além das perguntas básicas sobre a eficácia e explorar como os aprendizes utilizam a plataforma, quais são as suas experiências e como o design da plataforma influencia a aprendizagem.
 * **Utilizar metodologias mais robustas:** Empregar amostragens maiores e mais representativas, além de combinar métodos quantitativos e qualitativos para obter uma visão mais completa do processo de aprendizagem.
 * **Adotar uma perspectiva sociocultural:** Considerar a aprendizagem de línguas como um processo social e cultural, e explorar como o Duolingo pode ser utilizado para promover a interação e a comunicação entre os aprendizes.
 * **Experimentar novas abordagens:** Tentar utilizar o Duolingo de forma diferente, integrando-o a atividades contextuais e explorando seu potencial para promover a aprendizagem colaborativa e autônoma.
 
-## Diretrizes para Pesquisas sobre o Duolingo
-
-**Principais pontos das diretrizes:**
+** Diretrizes para Pesquisas sobre o Duolingo**
 
 * **Estrutura Teórica:** É fundamental definir claramente a teoria que fundamenta a pesquisa, explicando sua adequação ao contexto do estudo.
 * **Amostra:** Recomenda-se o uso de amostragem aleatória e de grandes tamanhos amostrais. Caso isso não seja possível, é crucial descrever detalhadamente as características da amostra.
