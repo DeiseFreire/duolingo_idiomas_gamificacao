@@ -5,17 +5,12 @@
 * Werbach (2014) argumenta em “Redefinindo Gamificação” que a gamificação deve ser interpretada como “o processo de tornar as atividades mais parecidas com jogos” (p. 266).
 
 * Venkata, Telaprolu, Rallapalli e Nah (2013) identificaram cinco componentes de gamificação.
-* Estes incluem: 
-
-(1) definir um objetivo ou orientação para metas; 
-
-(2) realização ou sensação de sucesso; 
-
-(3) responder aos resultados reforçando comportamentos específicos; 
-
-(4) competição para motivar o desempenho; 
-
-(5) orientação divertida para reduzir o estresse e aumentar o engajamento.
+* Estes incluem:
+  * (1) definir um objetivo ou orientação para metas;
+  * (2) realização ou sensação de sucesso;
+  * (3) responder aos resultados reforçando comportamentos específicos;
+  * (4) competição para motivar o desempenho;
+  * (5) orientação divertida para reduzir o estresse e aumentar o engajamento.
 
 * Segundo Buchanball (2010), Dehganzadeh & Dehganzadeh (2020), Garland (2015), Shadiev et al. (2020), e outros, a gamificação no MALL ainda é um tema recente. 
 
