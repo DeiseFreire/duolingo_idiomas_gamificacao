@@ -30,6 +30,8 @@
 
 #SystematicReview #Duolingo #CALL #MALL #LanguageLearning #Design
 
+## Imagens
+
 <img src="https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/cf245ca9-30ce-4857-8241-a2898a282302" alt="reuniao" min-width="100px" 
  max-width="100px" width="200px" align="center"> ![Duo34](https://i.imgur.com/9TuqFhM.png) <img src="https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/973af551-24e3-45f2-89f7-c10761730af3" alt="reuniao" min-width="50px" max-width="50px" width="50px" align="center"> ![image](https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/85bbaf84-9c5e-403a-af07-48f7c729fc4a)
 
