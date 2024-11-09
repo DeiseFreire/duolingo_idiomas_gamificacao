@@ -7,7 +7,7 @@
 > 
 > ## Bibliografia
 >
->SHORTT, Mitchell et al. Gamification in mobile-assisted language learning: A systematic review of Duolingo literature from public release of 2012 to early 2020.
+> SHORTT, Mitchell et al. Gamification in mobile-assisted language learning: A systematic review of Duolingo literature from public release of 2012 to early 2020.
 > Computer Assisted Language Learning, v. 36, n. 3, p. 517-554, 2023
 
 * Título: Gamificação na aprendizagem de idiomas assistida por dispositivos móveis: uma revisão sistemática da literatura do Duolingo desde o lançamento público de 2012 até o início de 2020
@@ -30,7 +30,7 @@
 
 #SystematicReview #Duolingo #CALL #MALL #LanguageLearning #Design
 
-## Imagens
+## Coleção de Duolingo
 
 <img src="https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/cf245ca9-30ce-4857-8241-a2898a282302" alt="reuniao" min-width="100px" 
  max-width="100px" width="200px" align="center"> ![Duo34](https://i.imgur.com/9TuqFhM.png) <img src="https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/973af551-24e3-45f2-89f7-c10761730af3" alt="reuniao" min-width="50px" max-width="50px" width="50px" align="center"> ![image](https://github.com/DeiseFreire/duolingo_idiomas_gamificacao/assets/51007898/85bbaf84-9c5e-403a-af07-48f7c729fc4a)
