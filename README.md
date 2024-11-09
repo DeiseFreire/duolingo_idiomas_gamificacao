@@ -7,8 +7,7 @@
 > 
 > ## Bibliografia
 >
-> SHORTT, Mitchell et al. Gamification in mobile-assisted language learning: A systematic review of Duolingo literature from public release of 2012 to early 2020.
-> Computer Assisted Language Learning, v. 36, n. 3, p. 517-554, 2023
+> SHORTT, Mitchell et al. Gamification in mobile-assisted language learning: A systematic review of Duolingo literature from public release of 2012 to early 2020. Computer Assisted Language Learning, v. 36, n. 3, p. 517-554, 2023
 
 * Título: Gamificação na aprendizagem de idiomas assistida por dispositivos móveis: uma revisão sistemática da literatura do Duolingo desde o lançamento público de 2012 até o início de 2020
 
