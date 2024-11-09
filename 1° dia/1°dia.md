@@ -9,9 +9,8 @@ O Duolingo é o aplicativo (app) de aprendizagem de línguas assistida por dispo
   * níveis sistemáticos;
   * Ranking (classificação dos utilizadores de acordo com as suas realizações) 
 
-A pesquisa visou avaliar o design e o impacto do Duolingo nos resultados de aprendizagem.
-
-Foram analisados artigos voltados às questões de design, aplicação e pedagogias no uso do Duolingo.
+* A pesquisa visou avaliar o design e o impacto do Duolingo nos resultados de aprendizagem.
+* Foram analisados artigos voltados às questões de design, aplicação e pedagogias no uso do Duolingo.
 
 ## Essa pesquisa é importante para dois públicos: 
 
